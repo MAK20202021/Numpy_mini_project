@@ -8,6 +8,7 @@ This mini project is for Udacity Nanodegree Program (https://www.udacity.com/cou
 This project needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4)
 
 ## File Description
-The source code is in Numpy_Exercise_Mean Normalization.ipynb
+The souce code for checking speed for NumPy is Checking_speed_NumPy.ipynb
+The source code for mean normalization is in Numpy_Exercise_Mean Normalization.ipynb
 ## Discussion
 After completing this mini project, I understand how easily we can reduce the process time by utilizing this important library Numpy.
