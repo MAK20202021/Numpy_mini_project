@@ -3,7 +3,7 @@ Numpy is Numerical Python. It is an extensive math library. It improves the spee
 ## Project Motivation
 This mini project is for providing a fundamental idea on how to utilize Numpy. It develops the creation of multidimentional array very quickly. Numpy has a variuous built-in functions, that support to do calculations such as mean, standard deviation within very short time and it improves the process speed. It provides the useful support to distribute data for machine learning algorithm. 
 ## Acknowledgement
-This mini project is for Udacity Nanodegree Program (https://www.udacity.com/course/data-scientist-nanodegree--nd025). Thank to Udacity for arranging this project to strengthen our knowledge. This project platform has been taken from Udacity.
+This mini project is for Udacity Nanodegree Program (https://www.udacity.com/course/data-scientist-nanodegree--nd025). Thanks to Udacity for arranging this project to strengthen our knowledge. This project platform has been taken from Udacity.
 ## Installation
 This project needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4)
 
